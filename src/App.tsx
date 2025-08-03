@@ -12,7 +12,7 @@ function App() {
       <HW3 />
       <HW4 />
     </div>
-  )
+  );
 }
 
 export default App;
